@@ -1,0 +1,201 @@
+/* Laptop :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+.hero-padding {
+    padding: 0 50px;
+}
+
+}
+
+/* Normal desktop (LG) :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+.access-img img {
+    margin-left: -287px;
+}
+.access-img img {
+    margin-left: 0;
+}
+.footer-widget h3 {
+    font-size: 18px;
+}
+.hero-padding {
+    padding: 0px;
+}
+.features-image img {
+    margin-left: 0;
+    max-width: 100%;
+}
+.what-text h3 {
+    font-size: 15px;
+}
+.runs-img img {
+    max-width: 100%;
+    margin: 70px 50px;
+}
+.setting-img img {
+    max-width: 100%;
+    margin: 70px -35px;
+}
+.testimonial-img img {
+    margin-left: 0;
+    max-width: 100%;
+}
+.fea-3-img img {
+    margin-left: -300px;
+}
+
+}
+
+ 
+/* Tablet desktop (MD) :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+.header-transparent {
+    padding: 20px 0;
+}
+.access-img img {
+    max-width: 100%;
+    margin-left: 0;
+}
+
+.testimonial-img img {
+    margin-left: 0;
+}
+.newsletter button {
+    padding: 0 68px;
+}
+.hero-padding {
+    padding: 0;
+}
+.header-normal {
+    padding: 15px 0px;
+    padding-bottom: 5px;
+}
+.slider-height-2 {
+    padding-top: 150px;
+}
+.slider-img {
+    margin-top: 15px;
+}
+.features-image img {
+    margin-left: 0;
+}
+.features-image img {
+    margin-left: 0px;
+}
+.fea-3-img img {
+    margin-left: 0;
+}
+.hw-fea-img img {
+    margin-top: 20px;
+}
+
+
+}
+
+ 
+/* small mobile (XS) :320px. */
+@media (max-width: 767px) {
+.access-img img {
+    max-width: 100%;
+    margin-left: 0;
+}
+.testimonial-img img {
+    margin-left: 0;
+    max-width: 100%;
+}
+.slider-text h2 {
+    font-size: 24px;
+}
+.access-text h3 {
+    font-size: 25px;
+}
+.access-text p {
+    text-align: justify;
+}
+.section-title h2 {
+    font-size: 25px;
+}
+.section-title h2 {
+    font-size: 20px;
+}
+.newsletter input {
+    height: 55px;
+    width: 100%;
+    margin-bottom: 10px;
+}
+.newsletter button {
+    height: 55px;
+    float: none;
+}
+.header-area {
+    margin-top: 15px;
+}
+.text-right {
+    text-align: left;
+}
+.hero-padding {
+    padding: 0;
+}
+.header-normal {
+    padding: 15px 0px;
+    padding-bottom: 5px;
+}
+.slider-height-2 {
+    padding-top: 150px;
+}
+.slider-img {
+    margin-top: 15px;
+}
+.features-image img {
+    margin-left: 0;
+}
+.features-image img {
+    margin-left: 0px;
+    max-width: 100%;
+}
+.slider-img img {
+    max-width: 100%;
+}
+.section-title-2 h2 {
+    font-size: 17px;
+}
+.runs-text h3 {
+    font-size: 20px;
+}
+.runs-text p {
+    margin-bottom: 0px;
+    text-align: justify;
+}
+.runs-img img {
+    max-width: 100%;
+}
+.setting-img img {
+    max-width: 100%;
+}
+.setting-text h3 {
+    font-size: 20px;
+}
+.pricing-tab {
+    margin-bottom: 10px;
+}
+
+.contact-form input:first-child {
+    margin-top: 20px;
+}
+ 
+}
+ 
+/* Large Mobile :480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+.container {width:450px}
+.fea-3-content{
+    padding-top: 0;
+}
+.newsletter-3 input {
+    width: 100%;
+}
+.btn-grad-news {
+    float: none;
+    margin-top: 5px;
+}
+ 
+}
